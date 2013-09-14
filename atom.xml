@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[blog.skrenes.com]]></title>
+  <title><![CDATA[Arsham Skrenes]]></title>
   <link href="http://skrenes.github.io/atom.xml" rel="self"/>
   <link href="http://skrenes.github.io/"/>
-  <updated>2013-09-13T00:45:15-06:00</updated>
+  <updated>2013-09-14T02:35:01-06:00</updated>
   <id>http://skrenes.github.io/</id>
   <author>
     <name><![CDATA[Arsham Skrenes]]></name>
@@ -12,5 +12,72 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts]]></title>
+    <link href="http://skrenes.github.io/blog/2013/09/13/thoughts/"/>
+    <updated>2013-09-13T13:09:00-06:00</updated>
+    <id>http://skrenes.github.io/blog/2013/09/13/thoughts</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve had a lot of thoughts, but I won&rsquo;t share any of them now. However, I will share this piece of code:</p>
+
+<figure class='code'><figcaption><span>Discover if a number is prime</span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
+</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Isn&rsquo;t that cool?</p>
+
+<p><img src="http://strawberry-fest.org/wp-content/uploads/2012/01/silhouette-dancing-people.jpg" title="Dancing People" alt="Silhouette" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://skrenes.github.io/blog/2013/09/13/test-post/"/>
+    <updated>2013-09-13T10:41:00-06:00</updated>
+    <id>http://skrenes.github.io/blog/2013/09/13/test-post</id>
+    <content type="html"><![CDATA[<h1>Big Header</h1>
+
+<p>This is my first post with markdown. I want to see what Octapress looks like when it has a few blog posts in it, as well as &ldquo;pages&rdquo;&hellip; whatever that means.</p>
+
+<h2>This is a smaller header</h2>
+
+<p>Not sure why I&rsquo;d have more headers in a post, but probably will happen, so it&rsquo;s good to make sure I check what it will look like.</p>
+
+<h3>This is even smaller</h3>
+
+<p>Hmm, interesting how this turns out&hellip;</p>
+
+<h4>This is probably the smallest there is</h4>
+
+<p>Not sure why I&rsquo;d have more headers in a post, but probably will happen, so it&rsquo;s good to make sure I check what it will look like. Not sure why I&rsquo;d have more headers in a post, but probably will happen, so it&rsquo;s good to make sure I check what it will look like.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cool stuff]]></title>
+    <link href="http://skrenes.github.io/blog/2013/04/01/cool-stuff/"/>
+    <updated>2013-04-01T13:09:00-06:00</updated>
+    <id>http://skrenes.github.io/blog/2013/04/01/cool-stuff</id>
+    <content type="html"><![CDATA[<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Another]]></title>
+    <link href="http://skrenes.github.io/blog/2012/11/13/another/"/>
+    <updated>2012-11-13T13:09:00-07:00</updated>
+    <id>http://skrenes.github.io/blog/2012/11/13/another</id>
+    <content type="html"><![CDATA[<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &ldquo;de Finibus Bonorum et Malorum&rdquo; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular&hellip;</p>
+]]></content>
+  </entry>
   
 </feed>
