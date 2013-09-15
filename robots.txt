@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://skrenes.github.io/sitemap.xml 
+Sitemap: http://arsham.skrenes.com/sitemap.xml 

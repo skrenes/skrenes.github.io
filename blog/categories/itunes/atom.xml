@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: iTunes | Arsham Skrenes]]></title>
-  <link href="http://skrenes.github.io/blog/categories/itunes/atom.xml" rel="self"/>
-  <link href="http://skrenes.github.io/"/>
-  <updated>2013-09-15T00:08:33-06:00</updated>
-  <id>http://skrenes.github.io/</id>
+  <link href="http://arsham.skrenes.com/blog/categories/itunes/atom.xml" rel="self"/>
+  <link href="http://arsham.skrenes.com/"/>
+  <updated>2013-09-15T00:33:24-06:00</updated>
+  <id>http://arsham.skrenes.com/</id>
   <author>
     <name><![CDATA[Arsham Skrenes]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[iTunes, Media Keys, and IntelliType]]></title>
-    <link href="http://skrenes.github.io/blog/2011/10/22/mediakeys/"/>
+    <link href="http://arsham.skrenes.com/blog/2011/10/22/mediakeys/"/>
     <updated>2011-10-22T13:00:00-06:00</updated>
-    <id>http://skrenes.github.io/blog/2011/10/22/mediakeys</id>
+    <id>http://arsham.skrenes.com/blog/2011/10/22/mediakeys</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve never been too impressed with iTunes since it was made. I was always a Winamp user myself. It&rsquo;s quite disappointing that features such as popup jump lists, accessible from anywhere, are still not in iTunes over a decade later. Sadly, iTunes hasn&rsquo;t changed all that much over the years. One of things they seem to have always had a trouble with is media keys (play/next-track/prev-track) on keyboards. It seemed that iTunes 9+ fixed the issues but iTunes 10.5 seems to have broken it again with people using Microsoft&rsquo;s IntelliType (version 8.2 at the time of writing this). <strong>Although the media keys still work when iTunes 10.5 is the active window, it does not work when iTunes is not the active window.</strong></p>
 
 <p>Surround your pullquote like this {" text to be quoted "}</p>
