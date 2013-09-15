@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Arsham Skrenes]]></title>
-  <link href="http://skrenes.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Apple | Arsham Skrenes]]></title>
+  <link href="http://skrenes.github.io/blog/categories/apple/atom.xml" rel="self"/>
   <link href="http://skrenes.github.io/"/>
   <updated>2013-09-15T00:08:33-06:00</updated>
   <id>http://skrenes.github.io/</id>
@@ -20,20 +20,16 @@
     <id>http://skrenes.github.io/blog/2011/10/22/mediakeys</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve never been too impressed with iTunes since it was made. I was always a Winamp user myself. It&rsquo;s quite disappointing that features such as popup jump lists, accessible from anywhere, are still not in iTunes over a decade later. Sadly, iTunes hasn&rsquo;t changed all that much over the years. One of things they seem to have always had a trouble with is media keys (play/next-track/prev-track) on keyboards. It seemed that iTunes 9+ fixed the issues but iTunes 10.5 seems to have broken it again with people using Microsoft&rsquo;s IntelliType (version 8.2 at the time of writing this). <strong>Although the media keys still work when iTunes 10.5 is the active window, it does not work when iTunes is not the active window.</strong></p>
 
-<p><span class='pullquote-right' data-pullquote='I&#8217;ve created a simple Windows application to fix the problem now and in case this ever happens again.'>
-Is this a problem with iTunes or IntelliType? My guess is it&rsquo;s probably a bit of both. Terminating itype.exe (part of IntelliType) results in Windows registering the standard hardware scan codes that seem to work fine with iTunes. One may conclude that the problem is with IntelliType; however, iTunes 10.5 is the only application that suffers from this anomaly. Even iTunes 10.4 works fine with the media keys.</p>
-
-<p>This problem is <a href="https://discussions.apple.com/message/16332392#16332392" title="Link to Apple Support Communities discussion documenting this problem">documented</a> in the Apple Support Community. Hopefully Apple fixes this problem with the next release of iTunes. In the meantime, I&rsquo;ve created a simple Windows application to fix the problem now and in case this ever happens again. This program is called <a href="http://skrenes.github.io/blog/files/MediaKeys.exe" title="Download MediaKeys.exe Windows application">MediaKeys.exe</a> and it takes one of four possible arguments: <strong>play</strong>, <strong>stop</strong>, <strong>prev</strong>, and <strong>next</strong>
-</span></p>
+<p>Surround your pullquote like this {" text to be quoted "}</p>
 
 <p>All this program does is fire the standard hardware scan code for the respective argument. The benefit of this is it not only works with iTunes 10.5, <strong>it works with any application</strong>. You can even create a desktop shortcut and make your own special key sequence to invoke say <strong>mediakeys.exe play</strong> which would toggle play/pause in any media application or <strong>mediakeys.exe next</strong> on a keyboard that doesn&rsquo;t have a &ldquo;next-track&rdquo; button. This utility should work with any kind of keyboard and doesn&rsquo;t require IntelliType.</p>
 
 <p>If you have a Microsoft keyboard with IntelliType, like I do (Natural Ergonomic Keyboard 4000), then these screen shots show you how you can configure it:</p>
 
-<p><img class="borderless" src="http://skrenes.github.io/blog/images/MediaKeys1.png" width="390">
-<img class="borderless" src="http://skrenes.github.io/blog/images/MediaKeys2.png" width="390">
-<img class="borderless" src="http://skrenes.github.io/blog/images/MediaKeys3.png" width="390">
-<img class="borderless" src="http://skrenes.github.io/blog/images/MediaKeys4.png" width="390"></p>
+<p><img class="borderless" src="/blog/images/MediaKeys1.png" width="390">
+<img class="borderless" src="/blog/images/MediaKeys2.png" width="390">
+<img class="borderless" src="/blog/images/MediaKeys3.png" width="390">
+<img class="borderless" src="/blog/images/MediaKeys4.png" width="390"></p>
 ]]></content>
   </entry>
   
