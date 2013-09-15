@@ -1,32 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://skrenes.github.io/blog/2012/11/13/another/</loc>
-        <lastmod>2013-09-13T13:13:00-06:00</lastmod>
-    </url>
-    <url>
-        <loc>http://skrenes.github.io/blog/2013/04/01/cool-stuff/</loc>
-        <lastmod>2013-09-13T13:13:22-06:00</lastmod>
-    </url>
-    <url>
-        <loc>http://skrenes.github.io/blog/2013/09/13/test-post/</loc>
-        <lastmod>2013-09-13T13:16:14-06:00</lastmod>
-    </url>
-    <url>
-        <loc>http://skrenes.github.io/blog/2013/09/13/thoughts/</loc>
-        <lastmod>2013-09-14T01:45:03-06:00</lastmod>
+        <loc>http://skrenes.github.io/blog/2011/10/22/mediakeys/</loc>
+        <lastmod>2013-09-14T23:49:38-06:00</lastmod>
     </url>
     <url>
         <loc>http://skrenes.github.io/about/</loc>
-        <lastmod>2013-09-14T01:45:03-06:00</lastmod>
+        <lastmod>2013-09-14T23:49:38-06:00</lastmod>
     </url>
     <url>
         <loc>http://skrenes.github.io/blog/archives/</loc>
-        <lastmod>2013-09-14T01:45:03-06:00</lastmod>
+        <lastmod>2013-09-14T23:49:38-06:00</lastmod>
     </url>
     <url>
         <loc>http://skrenes.github.io/</loc>
-        <lastmod>2013-09-14T01:45:03-06:00</lastmod>
+        <lastmod>2013-09-14T23:49:38-06:00</lastmod>
     </url>
     <url>
         <loc>http://skrenes.github.io/robots.txt</loc>
